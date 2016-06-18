@@ -1,0 +1,13 @@
+<h1>What up yo....</h1>
+<h2>Hey again</h2>
+<ul>
+  <li *ngFor="let item of list">
+    {{item}}
+  </li>
+</ul>
+<div>
+<input type="text" [(ngModel)]="user.name">
+<input type="text" [(ngModel)]="user.age">
+<label for=""  [style.color] = "isSpecial ? 'red' : 'green'">{{user}}</label>
+<button (click)="prompt(user, $event)">click me!</button>
+</div>

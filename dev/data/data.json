@@ -1,0 +1,17 @@
+export defaults = [{
+  "name": "Keith Osborne",
+  "text": "58 Tewuw Trail,Givvefwo,OH",
+  "avatar": "//www.gravatar.com/avatar/64b9c2d2bcc7f49874d24c501b9684e0"
+}, {
+  "name": "Tyler Townsend",
+  "text": "277 Hidmu Drive,Giegtec,VA",
+  "avatar": "//www.gravatar.com/avatar/3752537f2d12dba2a4127ade2ffe7972"
+}, {
+  "name": "Joseph Phillips",
+  "text": "218 Kakebu Highway,Cowtufli,IL",
+  "avatar": "//www.gravatar.com/avatar/bb0dac82c5a62b52f0062ea6e7f00b89"
+}, {
+  "name": "Albert Jensen",
+  "text": "1616 Decig Way,Gibertu,OH",
+  "avatar": "//www.gravatar.com/avatar/d9c135939047220a842e4a93a936a22f"
+}]
